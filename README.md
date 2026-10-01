@@ -45,14 +45,46 @@
 <br/><br/>
 
 <!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=4" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=5" alt="Let's connect" width="100%"/>
 
-<a href="https://github.com/codewitharpita01"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/arpita-kumari-615b46353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:arpitakumari77799@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
-<a href="https://leetcode.com/u/arpita_kumari01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d0e16" alt="LeetCode"/></a>
-<a href="https://arpita-portfolio-gray.vercel.app"><img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=0d0e16" alt="Portfolio"/></a>
+<br/>
 
+<!-- 🔗 DIRECT CLICKABLE CONNECT CARDS (Click to redirect) -->
+<table align="center" width="100%" style="border:none;">
+  <tr>
+    <td width="50%" align="center" style="border:none;">
+      <a href="https://github.com/codewitharpita01" target="_blank">
+        <img src="./card-github.svg" width="100%" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%" align="center" style="border:none;">
+      <a href="https://www.linkedin.com/in/arpita-kumari-615b46353/" target="_blank">
+        <img src="./card-linkedin.svg" width="100%" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border:none;">
+      <a href="mailto:arpitakumari77799@gmail.com" target="_blank">
+        <img src="./card-email.svg" width="100%" alt="Email"/>
+      </a>
+    </td>
+    <td width="50%" align="center" style="border:none;">
+      <a href="https://arpita-portfolio-gray.vercel.app" target="_blank">
+        <img src="./card-portfolio.svg" width="100%" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border:none;">
+      <a href="https://leetcode.com/u/arpita_kumari01/" target="_blank">
+        <img src="./card-leetcode.svg" width="50%" alt="LeetCode"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=codewitharpita01&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
