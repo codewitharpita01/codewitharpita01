@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO — Arpita Kumari • Data Analyst & Data Analytics • Futuristic HUD visual -->
-<img src="./hero.svg?v=7" alt="Hi, I'm Arpita Kumari — Data Analyst & Data Analytics" width="100%"/>
+<img src="./hero.svg?v=8" alt="Hi, I'm Arpita Kumari — Data Analyst & Data Analytics" width="100%"/>
 
 <br/><br/>
 
