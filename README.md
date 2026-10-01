@@ -44,48 +44,38 @@
 
 <br/><br/>
 
-<!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=5" alt="Let's connect" width="100%"/>
+<!-- 💌 LET'S CONNECT — Interactive Cyber Connect Hub -->
+<img src="./connect.svg?v=7" alt="Let's connect — Arpita Kumari" width="100%"/>
 
-<br/>
-
-<!-- 🔗 DIRECT CLICKABLE CONNECT CARDS (Click to redirect) -->
-<table align="center" width="100%" style="border:none;">
-  <tr>
-    <td width="50%" align="center" style="border:none;">
-      <a href="https://github.com/codewitharpita01" target="_blank">
-        <img src="./card-github.svg" width="100%" alt="GitHub"/>
-      </a>
-    </td>
-    <td width="50%" align="center" style="border:none;">
-      <a href="https://www.linkedin.com/in/arpita-kumari-615b46353/" target="_blank">
-        <img src="./card-linkedin.svg" width="100%" alt="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="border:none;">
-      <a href="mailto:arpitakumari77799@gmail.com" target="_blank">
-        <img src="./card-email.svg" width="100%" alt="Email"/>
-      </a>
-    </td>
-    <td width="50%" align="center" style="border:none;">
-      <a href="https://arpita-portfolio-gray.vercel.app" target="_blank">
-        <img src="./card-portfolio.svg" width="100%" alt="Portfolio"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border:none;">
-      <a href="https://leetcode.com/u/arpita_kumari01/" target="_blank">
-        <img src="./card-leetcode.svg" width="50%" alt="LeetCode"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
 <br/><br/>
+
+<div align="center">
+  <a href="https://github.com/codewitharpita01" target="_blank">
+    <img src="./card-github.svg?v=2" width="48%" alt="GitHub — codewitharpita01"/>
+  </a>
+  &nbsp;
+  <a href="mailto:arpitakumari77799@gmail.com" target="_blank">
+    <img src="./card-email.svg?v=2" width="48%" alt="Email — arpitakumari77799@gmail.com"/>
+  </a>
+  <br/><br/>
+  <a href="https://arpita-portfolio-gray.vercel.app" target="_blank">
+    <img src="./card-portfolio.svg?v=2" width="48%" alt="Portfolio — arpita-portfolio-gray.vercel.app"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arpita-kumari-615b46353/" target="_blank">
+    <img src="./card-linkedin.svg?v=2" width="48%" alt="LinkedIn — arpita-kumari-615b46353"/>
+  </a>
+  <br/><br/>
+  <a href="https://leetcode.com/u/arpita_kumari01/" target="_blank">
+    <img src="./card-leetcode.svg?v=2" width="48%" alt="LeetCode — arpita_kumari01"/>
+  </a>
+  <br/><br/>
+  <p>
+    <em>“<span style="color:#f472b6;">Transforming raw data into intelligence, logic into impact.</span>”</em>
+  </p>
+</div>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=codewitharpita01&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
